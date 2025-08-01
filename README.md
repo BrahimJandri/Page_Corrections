@@ -20,32 +20,3 @@ Your insight and expertise can help countless peers! If you've got an evaluation
 ## Navigating the Sheets 🗺️
 
 Each sheet is a roadmap to understanding the intricate expectations of each project. Use them to self-evaluate, discover areas for improvement, and prepare for the peer-evaluation journey that awaits. Review, reflect, and resonate with the criteria that define project success.
-
-## Complementary Resources 🌐
-
-For a holistic learning journey, don't forget to explore the [42-Subjects](https://github.com/rphlr/42-Subjects/) repository. It's an expansive archive of official project PDFs, in both English and French, aligning perfectly with these evaluation sheets.
-
-## Your Voice Matters 📢
-
-I'm in a constant state of learning and improvement, much like the code I write. If you've got ideas, feedback, or enhancements, I'm all ears. Open an issue, submit a pull request, or simply share your thoughts. Together, we grow.
-
-<b>Funny Stats 📊</b>
-
-  **Last stargazer:**
-
-  <!--last_stargazer_start-->
-  [![Last Stargazer](https://avatars.githubusercontent.com/u/73075252?v=4&s=250)](https://github.com/Yakupacs)
-  <!--last_stargazer_end-->
-  
-  Thanks to <!--name_start-->[Yakupacs](https://github.com/Yakupacs)<!--name_end--> for starring the repository! 🎉
-
-  **Updates occur hourly. Last update :** <!--date_start-->27.12.2023, 16:07:41<!--date_end--> (CET)
-
- [![Star History Chart](https://api.star-history.com/svg?repos=rphlr/42-Evals&type=Date)](https://star-history.com/#rphlr/42-Evals&Date)
-
-  More stats are coming soon! 🤖
-
-
----
-
-Remember to give a star ⭐ to my repository if it helps you navigate the challenges of 42 School projects. Your support amplifies my reach and aids fellow students in finding this repository with ease. Happy coding, and may your evaluations be ever in your favor! 🚀
